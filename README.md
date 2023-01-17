@@ -1,2 +1,5 @@
-# Digital_Image_Processing
-homework and solution
+# Homework
++ Perspective Distortion Correction
++ Image Enhancement
++ Adaptive Median Filter
++ Connected Components
